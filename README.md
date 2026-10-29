@@ -1,23 +1,18 @@
-### From Minecraft modding to game engines - Game Development student @ Howest DAE
+# Mihail Maloman
 
-Currently building tech & utility mods on **NeoForge 1.21.1** (Java/Kotlin) for **Team Solar**.
-Starting **Howest DAE (Game Development)** in Kortrijk, Belgium - September 2026 - moving toward C++, graphics programming and game engines.
+Game Development student at **Howest DAE** (Kortrijk, Belgium), working toward **C++ engine programming**.
 
-**Stack now:** Java · Kotlin · NeoForge · Gradle
-**Stack next:** C++ · OpenGL / Vulkan
+Before Howest I wrote Minecraft mods in Java on NeoForge, including work with Team Solar (2023–2025). Now I'm moving down the stack: C++, game architecture and, later, graphics.
 
----
+**Now:** C++ · CMake · Git
+**Background:** Java · NeoForge · Gradle
+**Next:** OpenGL · Vulkan · engine architecture
 
-#### Featured projects
+### Current project
+**[TurnBasedBattle](https://github.com/Rainy1127/TurnBasedBattle)** - a turn-based RPG combat system in C++: initiative, action points, abilities loaded from JSON, rule-based enemy AI, unit tests and sanitizer checks.
 
-| Project | What it does |
-|---|---|
-| [Universal-Pipes](https://github.com/Rainy1127/Universal-Pipes) | Item/fluid transport pipe system |
-| [Thermal-Machinist](https://github.com/Rainy1127/Thermal-Machinist) | Thermal machines & resource processing |
-| [Simplest-Hammers](https://github.com/Rainy1127/Simplest-Hammers) | Minimal hammer tool mod |
+### Modding
+**[Simplest-Hammers](https://github.com/TeamSolarMC/Simplest-Hammers)** - minimal hammer tool mod for NeoForge (Team Solar).
+Smaller mods are in the Repositories tab.
 
-Full list in the Repositories tab.
-
----
-
-📎 LinkedIn: https://www.linkedin.com/in/mihail-maloman
+[LinkedIn](https://www.linkedin.com/in/mihail-maloman)
