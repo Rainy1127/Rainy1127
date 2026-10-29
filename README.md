@@ -20,4 +20,4 @@ Full list in the Repositories tab.
 
 ---
 
-📎 LinkedIn: https://www.linkedin.com/in/mihail-maloman-428aa9287/
+📎 LinkedIn: https://www.linkedin.com/in/mihail-maloman
