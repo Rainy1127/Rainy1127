@@ -1,4 +1,4 @@
-### From Minecraft modding to game engines - incoming Howest DAE student
+### From Minecraft modding to game engines - Game Development student @ Howest DAE
 
 Currently building tech & utility mods on **NeoForge 1.21.1** (Java/Kotlin) for **Team Solar**.
 Starting **Howest DAE (Game Development)** in Kortrijk, Belgium - September 2026 - moving toward C++, graphics programming and game engines.
